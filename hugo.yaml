@@ -1,0 +1,8 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Brett Loewen's Portfolio
+theme: ["PaperMod"]
+params:
+  homeInfoParams:
+    Title: "Hello there \U0001F44B"
+    Content: Welcome to my portfolio
