@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: "https://brettloewen.github.io/Portfolio/"
 languageCode: en-us
 title: Brett Loewen's Portfolio
 theme: ["PaperMod"]
@@ -6,3 +6,6 @@ params:
   homeInfoParams:
     Title: "Hello there \U0001F44B"
     Content: Welcome to my portfolio
+  socialIcons:
+    - name: github
+      url: "https://github.com/BrettLoewen/"
