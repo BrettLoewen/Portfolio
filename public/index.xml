@@ -2,19 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Brett Loewen&#39;s Portfolio</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/Portfolio/</link>
     <description>Recent content on Brett Loewen&#39;s Portfolio</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 May 2025 13:24:50 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 May 2025 15:20:14 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Portfolio</title>
-      <link>http://localhost:1313/posts/portfolio/</link>
+      <title>Fluffy Dog Studio - Co-op Unity Game Developer</title>
+      <link>http://localhost:1313/Portfolio/posts/fluffydog/</link>
+      <pubDate>Mon, 05 May 2025 15:20:14 -0500</pubDate>
+      <guid>http://localhost:1313/Portfolio/posts/fluffydog/</guid>
+      <description>&lt;p&gt;At Fluffy Dog, I worked with a wide range of professionals to create a new mobile game: &amp;ldquo;Neopets: Tales of Dacardia.&amp;rdquo; Notable features I worked on included a minigame called the Activity Fixity, the game&amp;rsquo;s audio system, an overhaul of the game&amp;rsquo;s pet customization system, a system for limited-time events, replacing the UI framework, updating the quest system to support side-quests, and creating tools to aid designers with various tasks, such as adding dialogue and creating events. Communication, collaboration, and flexibility were all key skills that I regularly put to use as I worked together with designers, artists, producers, and my fellow developers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FeedFlo - Full Stack Developer - Co-op</title>
+      <link>http://localhost:1313/Portfolio/posts/feedflo/</link>
       <pubDate>Fri, 02 May 2025 13:24:50 -0500</pubDate>
-      <guid>http://localhost:1313/posts/portfolio/</guid>
-      <description>&lt;h1 id=&#34;hi&#34;&gt;Hi&lt;/h1&gt;
-&lt;p&gt;Hello world!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/Portfolio/posts/feedflo/</guid>
+      <description>&lt;p&gt;FeedFlo provides sensors that monitor animal feed pipes to keep farmers informed about their barns and ensure any issues are discovered and addressed quickly to keep the animals healthy.&lt;/p&gt;
+&lt;p&gt;My primay roles at FeedFlo were to create and improve features for the web front-end and create a mobile app equivalent to the web front-end. Since I had no prior experience in web or mobile development, I was required to learn a lot and learn it quickly. I developed a strong understanding of JavaScript and React as I worked independently on, and took ownership of, several features for their web front-end’s alert dashboard including adding date-based paging, URL embedded filters for easy copying, and clickable graph elements. I built my understanding of mobile software development while working to build the foundation for FeedFlo’s mobile app. I also built skills with Git, GitHub, and SQL throughout my time at FeedFlo.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
