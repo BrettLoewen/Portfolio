@@ -1,26 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Brett Loewen&#39;s Portfolio</title>
-    <link>http://localhost:1313/Portfolio/posts/</link>
-    <description>Recent content in Posts on Brett Loewen&#39;s Portfolio</description>
+    <title>Work on Brett Loewen&#39;s Portfolio</title>
+    <link>http://localhost:1313/Portfolio/tags/work/</link>
+    <description>Recent content in Work on Brett Loewen&#39;s Portfolio</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 May 2025 13:24:45 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/Portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Stellar Tactics</title>
-      <link>http://localhost:1313/Portfolio/posts/stellartactics/</link>
-      <pubDate>Mon, 26 May 2025 13:24:45 -0500</pubDate>
-      <guid>http://localhost:1313/Portfolio/posts/stellartactics/</guid>
-      <description>&lt;p&gt;Hello&lt;/p&gt;
-&lt;p&gt;Technical Skills:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Unity&lt;/li&gt;
-&lt;li&gt;C#&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You can find Stellar Tactics on &lt;a href=&#34;https://github.com/BrettLoewen/Stellar-Tactics&#34;&gt;GitHub&lt;/a&gt; and on &lt;a href=&#34;https://supremetorian-studios.itch.io/stellar-tactics&#34;&gt;Itch.io&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Mon, 05 May 2025 15:20:14 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/Portfolio/tags/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fluffy Dog Studio - Co-op Unity Game Developer</title>
       <link>http://localhost:1313/Portfolio/posts/fluffydog/</link>

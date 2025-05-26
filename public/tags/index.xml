@@ -6,6 +6,56 @@
     <description>Recent content in Tags on Brett Loewen&#39;s Portfolio</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 26 May 2025 13:24:45 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C#</title>
+      <link>http://localhost:1313/Portfolio/tags/c%23/</link>
+      <pubDate>Mon, 26 May 2025 13:24:45 -0500</pubDate>
+      <guid>http://localhost:1313/Portfolio/tags/c%23/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Project</title>
+      <link>http://localhost:1313/Portfolio/tags/personal-project/</link>
+      <pubDate>Mon, 26 May 2025 13:24:45 -0500</pubDate>
+      <guid>http://localhost:1313/Portfolio/tags/personal-project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unity</title>
+      <link>http://localhost:1313/Portfolio/tags/unity/</link>
+      <pubDate>Mon, 26 May 2025 13:24:45 -0500</pubDate>
+      <guid>http://localhost:1313/Portfolio/tags/unity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Co-Op</title>
+      <link>http://localhost:1313/Portfolio/tags/co-op/</link>
+      <pubDate>Mon, 05 May 2025 15:20:14 -0500</pubDate>
+      <guid>http://localhost:1313/Portfolio/tags/co-op/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Work</title>
+      <link>http://localhost:1313/Portfolio/tags/work/</link>
+      <pubDate>Mon, 05 May 2025 15:20:14 -0500</pubDate>
+      <guid>http://localhost:1313/Portfolio/tags/work/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>http://localhost:1313/Portfolio/tags/javascript/</link>
+      <pubDate>Fri, 02 May 2025 13:24:50 -0500</pubDate>
+      <guid>http://localhost:1313/Portfolio/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>http://localhost:1313/Portfolio/tags/react/</link>
+      <pubDate>Fri, 02 May 2025 13:24:50 -0500</pubDate>
+      <guid>http://localhost:1313/Portfolio/tags/react/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

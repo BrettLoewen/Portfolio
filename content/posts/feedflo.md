@@ -2,6 +2,7 @@
 date: "2025-05-02T13:24:50-05:00"
 draft: false
 title: "FeedFlo - Full Stack Developer - Co-op"
+tags: ["React", "JavaScript", "Co-op", "Work"]
 ---
 
 FeedFlo provides sensors that monitor animal feed pipes to keep farmers informed about their barns and ensure any issues are discovered and addressed quickly to keep the animals healthy.

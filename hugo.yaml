@@ -2,6 +2,14 @@ baseURL: "https://brettloewen.github.io/Portfolio/"
 languageCode: en-us
 title: Brett Loewen's Portfolio
 theme: ["PaperMod"]
+taxonomies:
+    tag: "tags"
+menu:
+    main:
+        - name: "Tags"
+          url: "/tags/"
+        - name: "Search"
+          url: "/search/"
 params:
     homeInfoParams:
         Title: "Howdy \U0001F44B"
@@ -9,3 +17,12 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/BrettLoewen/"
+        - name: linkedin
+          url: "https://linkedin.com/in/brett-loewen/"
+        - name: itchio
+          url: "https://supremetorian-studios.itch.io/"
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # necessary for search
