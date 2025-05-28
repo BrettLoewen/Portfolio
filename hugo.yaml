@@ -13,7 +13,11 @@ menu:
 params:
     homeInfoParams:
         Title: "Howdy \U0001F44B"
-        Content: Welcome to my portfolio
+        Content: |
+            Welcome to my portfolio!
+
+            - View my work history [here](/Portfolio/tags/work/).
+            - Look at my personal projects [here](/Portfolio/tags/personal-project/).
     socialIcons:
         - name: github
           url: "https://github.com/BrettLoewen/"
