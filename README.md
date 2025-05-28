@@ -1,7 +1,1 @@
-Remove the following css block from `themes\PaperMod\assets\css\core\reset.css` to ensure the homepage bullets render correctly.
-
-```
-ul {
-    padding: 0;
-}
-```
+A portfolio to give more details on my work history and personal projects than I could give on a cover letter or resume.
