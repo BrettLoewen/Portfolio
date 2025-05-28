@@ -2,6 +2,7 @@
 date: "2025-05-28T13:38:56-05:00"
 draft: false
 title: "Emergence"
+tags: ["Unity", "C#", "Personal Project"]
 ---
 
 I wanted to create a prototype of the key features from the _Fire Emblem_ franchise, particularly focusing on _Fire Emblem: Three Houses_. _Fire Emblem_ is a fantasy series featuring turn-based tactics. While the details often change between games, the fundamental gameplay remains the same: the player commands their units to move on a grid and engage enemies in battle. The unique element from Three Houses that I wanted to explore was its third-person hub-world exploration and how actions in the hub impact tactical gameplay.
