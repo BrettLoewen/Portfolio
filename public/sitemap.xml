@@ -3,15 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/Portfolio/</loc>
-    <lastmod>2025-05-26T13:24:45-05:00</lastmod>
+    <lastmod>2025-05-28T13:38:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/posts/emergence/</loc>
+    <lastmod>2025-05-28T13:38:56-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/posts/</loc>
+    <lastmod>2025-05-28T13:38:56-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Portfolio/tags/c%23/</loc>
     <lastmod>2025-05-26T13:24:45-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Portfolio/tags/personal-project/</loc>
-    <lastmod>2025-05-26T13:24:45-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/posts/</loc>
     <lastmod>2025-05-26T13:24:45-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Portfolio/posts/stellartactics/</loc>

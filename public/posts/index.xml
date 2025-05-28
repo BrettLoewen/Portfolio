@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Brett Loewen&#39;s Portfolio</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 May 2025 13:24:45 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 13:38:56 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/Portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emergence</title>
+      <link>http://localhost:1313/Portfolio/posts/emergence/</link>
+      <pubDate>Wed, 28 May 2025 13:38:56 -0500</pubDate>
+      <guid>http://localhost:1313/Portfolio/posts/emergence/</guid>
+      <description>&lt;p&gt;With &lt;em&gt;Stellar Tactics&lt;/em&gt;, I wanted to recreate the core gameplay from one of my favourite games, &lt;em&gt;XCOM 2&lt;/em&gt;. &lt;em&gt;XCOM&lt;/em&gt; is a turn-based tactics game where the player commands a squad of soldiers in a fight against alien invaders. The player must carefully move their soldiers across the battlefield to find and accomplish an objective, eliminating any alien threats as they go. This is the gameplay that I wanted to make in this prototype.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Stellar Tactics</title>
       <link>http://localhost:1313/Portfolio/posts/stellartactics/</link>

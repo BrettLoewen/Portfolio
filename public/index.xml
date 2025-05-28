@@ -6,8 +6,15 @@
     <description>Recent content on Brett Loewen&#39;s Portfolio</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 May 2025 13:24:45 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 13:38:56 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emergence</title>
+      <link>http://localhost:1313/Portfolio/posts/emergence/</link>
+      <pubDate>Wed, 28 May 2025 13:38:56 -0500</pubDate>
+      <guid>http://localhost:1313/Portfolio/posts/emergence/</guid>
+      <description>&lt;p&gt;I wanted to create a prototype of the key features from the &lt;em&gt;Fire Emblem&lt;/em&gt; franchise, particularly focusing on &lt;em&gt;Fire Emblem: Three Houses&lt;/em&gt;. &lt;em&gt;Fire Emblem&lt;/em&gt; is a fantasy series featuring turn-based tactics. While the details often change between games, the fundamental gameplay remains the same: the player commands their units to move on a grid and engage enemies in battle. The unique element from Three Houses that I wanted to explore was its third-person hub-world exploration and how actions in the hub impact tactical gameplay.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Stellar Tactics</title>
       <link>http://localhost:1313/Portfolio/posts/stellartactics/</link>
