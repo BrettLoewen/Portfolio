@@ -11,11 +11,13 @@ When the player starts the prototype, they begin in the hub. Here, they can purc
 
 With this gameplay loop implemented, I successfully recreated the key features of _Fire Emblem: Three Houses_ in my prototype _Emergence_.
 
-Technical Skills:
+### Technical Skills
 
 -   Unity
 -   C#
 -   Git
 -   GitHub
+
+### Learn More
 
 You can find _Emergence_ on [GitHub](https://github.com/BrettLoewen/Fire-Emblem-Emergence) and on [Itch.io](https://supremetorian-studios.itch.io/emergence).

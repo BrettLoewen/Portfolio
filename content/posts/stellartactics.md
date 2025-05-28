@@ -17,11 +17,13 @@ My goal was to have a player command a squad of soldiers with these actions agai
 
 With this scenario fully implemented, I accomplished my goal of recreating the core gameplay of _XCOM 2_ with this small, focused prototype.
 
-Technical Skills:
+### Technical Skills
 
 -   Unity
 -   C#
 -   Git
 -   GitHub
+
+### Learn More
 
 You can find _Stellar Tactics_ on [GitHub](https://github.com/BrettLoewen/Stellar-Tactics) and on [Itch.io](https://supremetorian-studios.itch.io/stellar-tactics).

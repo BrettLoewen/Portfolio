@@ -20,7 +20,7 @@ My primay roles at _FeedFlo_ were to create and improve features for the web fro
 
 My work experience provided me with transferable skills in both self-directed and team-oriented work styles, as I coordinated with team members to build the apps together and integrate with the existing infrastructure of sensors, servers, and databases. I demonstrated flexibility and grew my appreciation for agile software development when the company’s primary direction shifted, requiring me to reprioritize my workload to overhaul how the database schema handles permissions and users to support a new use case.
 
-Technical Skills:
+### Technical Skills
 
 -   JavaScript
 -   React
@@ -32,5 +32,7 @@ Technical Skills:
 -   GitHub
 -   Jira
 -   Slack
+
+### Learn More
 
 Learn more about _FeedFlo_ [here](https://www.feedflo.com/).
