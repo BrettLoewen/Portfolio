@@ -28,6 +28,7 @@ params:
           url: "https://supremetorian-studios.itch.io/"
     fuseOpts: # Search uses fuse.js, params for fuse search
         threshold: 0.4
+        findAllMatches: false
 outputs:
     home:
         - HTML
