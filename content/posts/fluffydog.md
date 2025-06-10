@@ -1,5 +1,5 @@
 ---
-date: "2025-05-05T15:20:14-05:00"
+date: "2024-08-31T12:00:00-05:00"
 draft: false
 title: "Fluffy Dog Studio - Co-op Unity Game Developer"
 tags: ["Unity", "C#", "Co-op", "Work"]

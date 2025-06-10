@@ -1,5 +1,5 @@
 ---
-date: "2025-05-28T13:38:56-05:00"
+date: "2023-07-02T12:00:00-05:00"
 draft: false
 title: "Emergence"
 tags: ["Unity", "C#", "Personal Project"]
